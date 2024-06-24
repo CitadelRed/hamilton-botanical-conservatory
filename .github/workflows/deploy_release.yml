@@ -1,8 +1,8 @@
 on:
   push:
     branches:
-      - release
-name: 🚀 Deploy website on push to main
+      - main
+name: 🚀 Deploy release on push to main
 jobs:
   web-deploy:
     name: 🎉 Deploy
