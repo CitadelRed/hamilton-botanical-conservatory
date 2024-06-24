@@ -874,7 +874,7 @@ p-div .row {
     position:absolute;
     top:7px;
     left:7px;
-    content:url("/images/facebook.png");
+    content:url("images/facebook.png");
 }
 .facebook:hover{
     background-color:rgba(255,255,255,1.00);
@@ -883,7 +883,7 @@ p-div .row {
     position:absolute;
     top:7px;
     left:7px;
-    content:url("/images/instagram.png");
+    content:url("images/instagram.png");
 }
 .instagram:hover{
     background-color:rgba(255,255,255,1.00);
@@ -892,7 +892,7 @@ p-div .row {
     position:absolute;
     top:7px;
     left:7px;
-    content:url("/images/youtube.png");
+    content:url("images/youtube.png");
 }
 .youtube:hover{
     background-color:rgba(255,255,255,1.00);
